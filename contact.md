@@ -6,7 +6,7 @@ Academie Blossom Academy is located in the Westmount adjacent borough of Notre-D
 
 ADDRESS:
 
-5588 rue Sherbrooke Ouest
+5594 rue Sherbrooke Ouest
 
 Montreal, Quebec, Canada  H4A 1W3
 
