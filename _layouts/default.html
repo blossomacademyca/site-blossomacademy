@@ -66,7 +66,7 @@
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+                <a class="nav-link" href="{{ site.baseurl }}/index.html">Our mission</a>
                 </li>
                 
                 {% if page.url == "/about.html" %}
@@ -74,7 +74,7 @@
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+                <a class="nav-link" href="{{ site.baseurl }}/about">About us</a>
                 </li>
 
 
@@ -129,34 +129,6 @@
     
 </div><!-- /.container>
     
-<!-- Categories Jumbotron
-================================================== -->
-<div class="jumbotron fortags">
-	<div class="d-flex h-100">
-		<div class="col-md-4 align-self-center text-center h-100">
-            <div class="d-flex align-items-center justify-content-center h-100">
-			 <h2 class="d-md-block d-none align-self-center">Explore →</h2>
-            </div>
-		</div>
-		<div class="col-md-8 align-self-center text-center">
-          {% assign tags_list = site.categories %}  
-          {% if tags_list.first[0] == null %}
-            {% for tag in tags_list %} 
-              <a href="{{ site.baseurl }}/category/{{ tag }}">{{ tag | capitalize }} {{ site.tags[tag].size }}</a>
-            {% endfor %}
-          {% else %}
-            {% for tag in tags_list %} 
-              <a href="{{ site.baseurl }}/category/{{ tag[0] }}">{{ tag[0] | capitalize }} ({{ tag[1].size }})</a>
-            {% endfor %}
-          {% endif %}
-        {% assign tags_list = nil %}
-
-		</div>
-	</div>
-</div>
- 
-
-
 <!-- Begin Footer
 ================================================== -->
 <footer class="footer">
