@@ -17,3 +17,18 @@ TELEPHONE:
 EMAIL:
 
 blossomacademy@videotron.ca
+
+## Contact form
+<form method="POST" action="https://formspree.io/blossomacademy@videotron.ca">
+  <input type="hidden" name="_subject" value="Website contact" />
+  <label>Your Name</label>
+  <input type="text" name="name" placeholder="Enter Name">
+  <label>Your Email</label>
+  <input type="email" name="email" placeholder="Enter Email">
+  <label>Your Phone</label>
+  <input type="phone" name="phone" placeholder="Enter Phone No">
+  <label>Message</label>
+  <textarea name="message" placeholder="Message"></textarea>
+  <button type="submit">Submit</button>
+  <input type="hidden" name="_next" value="http://www.blossomacademy.info/" />
+</form>
