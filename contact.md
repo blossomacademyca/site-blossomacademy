@@ -30,7 +30,7 @@ blossomacademy@videotron.ca
   <input type="email" name="email" placeholder="Enter Email">
   </p>
   <label>Your Phone</label>
-  </p>
+  <p>
   <input type="phone" name="phone" placeholder="Enter Phone No">
   </p>
   <label>Message</label>
