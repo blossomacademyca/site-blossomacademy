@@ -22,9 +22,9 @@ blossomacademy@videotron.ca
 <form method="POST" action="https://formspree.io/blossomacademy@videotron.ca">
   <input type="hidden" name="_subject" value="Website contact" />
   <label>Your Name</label>
-  
+  <p>
   <input type="text" name="name" placeholder="Enter Name">
-  
+  </p>
   <label>Your Email</label>
   
   <input type="email" name="email" placeholder="Enter Email">
