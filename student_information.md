@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Student Information
+title: Enrollment Information
 ---
 Learn more about how to enroll your child at Academie Blossom Academy and understand our academic program, fees and other important information about our daycare.
 
