@@ -6,7 +6,7 @@ Learn more about how to enroll your child at Academie Blossom Academy and unders
 
 ### Registration & Enrollment
 
-Enrollment is based on availability and whether the directors feel the academy is an appropriate fit for your child based on the current curriculum.
+Please e-mail us to inquire about availability and register on our waiting list at Place 0-5: https://www.laplace0-5.com/
 
 ### Academic Calendar
 
