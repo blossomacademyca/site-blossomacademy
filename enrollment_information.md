@@ -10,7 +10,7 @@ Please e-mail us to inquire about availability and register on our waiting list 
 
 ### Academic Calendar
 
-Monthly Schedules are emailed to parents/guardians.
+Our academic calendar is prepared on an annual basis and shared with parents/guardians.
 
 ### Fees
 
