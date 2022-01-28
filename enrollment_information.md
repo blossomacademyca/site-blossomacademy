@@ -6,7 +6,7 @@ Learn more about how to enroll your child at Académie Blossom Academy and under
 
 ### Registration & Enrollment
 
-Please e-mail us to inquire about availability and register on our waiting list at Place 0-5: https://www.laplace0-5.com/
+Please e-mail us to inquire about availability and register on our waiting list at Place 0-5: [https://www.laplace0-5.com/](https://www.laplace0-5.com/)
 
 ### Academic Calendar
 
