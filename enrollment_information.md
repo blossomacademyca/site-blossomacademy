@@ -14,13 +14,17 @@ Our academic calendar is prepared on an annual basis and shared with parents/gua
 
 ### Fees
 
-Fees per child depend on number of days per week your child will be registered. Please contact us for the most currently fees.
+We establish our daily fee on an annual basis and payments are due at the beginning of each month.   Please contact us for the most current fees.
 
-Method of payment: Cash or Cheque (Monthly)
+Method of payment: E-transfer, Cheque or Cash.
+
+Upon request we can prepare the Advanced Child Tax Credit Form for you to apply through Revenu Quebec.
 
 ### Meals
 
-We offer healthy snacks for children over 18 months old in both morning and/or afternoon sessions. In the event of a food allergy or dislike of a particular item, parents are welcome to supplement their child’s snack according to the child’s needs. Lunch time is an optional time for the parents who need this extra time. If your child is staying for lunch, you are responsible to bring your  child’s lunch in a proper lunch box including an ice pack to preserve the food; Blossom Academy is not responsible for its nutritional value or for meeting the child’s daily food needs. Due to the increasing incidence of severe allergic reaction to peanut butter and peanut butter products among preschool children, Blossom Academy ask parents to support our effort in keeping our school a peanut butter-free environment for the sake of all our children and we appreciate your cooperation in sending non-peanut butter snacks and party treats.
+We offer healthy snacks in the morning and afternoon, as well as catered lunch. The cost of meals is included in our daily fee.
+
+The lunch menu is sent to parents every four weeks.
 
 ## For all other information, please feel free to contact us and we will be happy to discuss with you.
 
