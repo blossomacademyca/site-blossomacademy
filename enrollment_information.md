@@ -2,7 +2,7 @@
 layout: default
 title: Enrollment Information
 ---
-Learn more about how to enroll your child at Academie Blossom Academy and understand our academic program, fees and other important information about our daycare.
+Learn more about how to enroll your child at Académie Blossom Academy and understand our academic program, fees and other important information about our daycare.
 
 ### Registration & Enrollment
 
@@ -22,7 +22,7 @@ Upon request we can prepare the Advanced Child Tax Credit Form for you to apply 
 
 ### Meals
 
-We offer healthy snacks in the morning and afternoon, as well as catered lunch. The cost of meals is included in our daily fee.
+We offer healthy snacks in the morning and afternoon, as well as catered lunch. The cost of meals are included in our daily fee.
 
 The lunch menu is sent to parents every four weeks.
 
